@@ -51,7 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\_Scripts\ControllerMapping.cs" />
+     <Compile Include="Assets\_Scripts\LeftControllerMapping.cs" />
      <Compile Include="Assets\_Scripts\Lever.cs" />
      <Compile Include="Assets\_Scripts\LeverInteract.cs" />
      <Compile Include="Assets\_Scripts\Scaler.cs" />

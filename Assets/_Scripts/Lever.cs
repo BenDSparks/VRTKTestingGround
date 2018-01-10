@@ -37,7 +37,6 @@ public class Lever : MonoBehaviour {
 			isOff = true;
 			isOn = false;
 		}
-
 		else {
 			mat.color = Color.white;
 			isOn = false;
