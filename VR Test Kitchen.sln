@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Test Kitchen", "Assembly-CSharp.csproj", "{156AA1F9-BE0A-6C49-EFC1-3E3C212CA317}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VR Test Kitchen", "Assembly-CSharp-Editor.csproj", "{AEF792DA-A8B6-2543-13AC-25C74944555D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{156AA1F9-BE0A-6C49-EFC1-3E3C212CA317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{156AA1F9-BE0A-6C49-EFC1-3E3C212CA317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{156AA1F9-BE0A-6C49-EFC1-3E3C212CA317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{156AA1F9-BE0A-6C49-EFC1-3E3C212CA317}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AEF792DA-A8B6-2543-13AC-25C74944555D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AEF792DA-A8B6-2543-13AC-25C74944555D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AEF792DA-A8B6-2543-13AC-25C74944555D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AEF792DA-A8B6-2543-13AC-25C74944555D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
